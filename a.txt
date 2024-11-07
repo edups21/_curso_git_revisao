@@ -3,3 +3,4 @@ testando log do git
 uma atualizacao do arquivo 2
 
 enviando a funcionalidade x
+enviando a funcionalidade b
